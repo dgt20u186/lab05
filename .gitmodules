@@ -1,0 +1,3 @@
+[submodule "banking/gtest"]
+	path = banking/gtest
+	url = https://github.com/google/googletest
