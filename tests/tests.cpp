@@ -71,3 +71,4 @@ TEST(Transaction, SimpleTest) {
     EXPECT_TRUE(tr.Make(ac2, ac1, 300));
 }
 //
+//
