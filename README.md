@@ -1,3 +1,4 @@
+[![Build Status](https://www.travis-ci.com/dgt20u186/lab05.svg?branch=main)](https://www.travis-ci.com/dgt20u186/lab05) для lab05
 [![Build Status](https://travis-ci.org/dgt20u186/lab04.svg?branch=master)](https://travis-ci.org/dgt20u186/lab04)
 # lab04
 ## Далгатов Гитиномагомед, группа ИУ8-22
